@@ -1,0 +1,19 @@
+Sample Input:
+The gene that produces the striking dark stripes on tabby cats is also responsible for the spots on cheetahs, a new study reports.And a mutation of this same gene causes the stripes in cats and spots on cheetahs to become blotchy.
+
+“Nobody had any idea what the genes were that were involved in these things,” said Stephen O’Brien, a geneticist now at St. Petersburg State University in Russia and one of the researchers who led the study. “When the feline genome became available, we began to look for them.”
+
+Dr. O’Brien and his colleagues published their discovery of the gene, known as Taqpep, in the current issue of the journal Science. The findings are based on data analyzed at the HudsonAlpha Institute for Biotechnology, in Alabama; the Frederick National Laboratory for Cancer Research, in Maryland; and Stanford University.
+
+Cheetahs that have the Taqpep mutation (and therefore blotches and stripes) belong to a rare breed known as the king cheetah, found in South Africa. Tabbies with the mutation are more often found in Europe, Dr. O’Brien said. In the United States, the striped tabby is more common.
+
+The researchers used DNA samples and tissue samples from feral cats in Northern California, along with small skin biopsies and blood samples from captive and wild South African and Namibian cheetahs.
+
+The scientists also discovered a second gene, Edn3, that controls hair color in the cats’ coat patterns.
+
+There is more work to be done in looking at other genes, and at other cats both domestic and wild, Dr. O’Brien said.
+
+“We’re still fishing around to really unravel the pathways involved in pattern forming and pigmentation,” he said.
+
+Source: NY Times
+Link: http://www.nytimes.com/2012/09/25/science/the-gene-behind-cheetahs-spots-and-tabbies-stripes.html?ref=science
